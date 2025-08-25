@@ -1,0 +1,15 @@
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\datos\PersonaDao.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\datos\PersonaDaoImpl.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\datos\UsuarioDao.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\datos\UsuarioDaoImpl.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\domain\Persona.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\domain\Usuario.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\servicio\PersonaService.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\servicio\PersonaServiceImpl.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\servicio\PersonaServiceRemote.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\servicio\PersonaServiceRS.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\servicio\PersonaServiceWs.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\servicio\UsuarioService.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\servicio\UsuarioServiceImpl.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\servicio\UsuarioServiceRemote.java
+C:\Users\herra\Documents\1.NetBeansProjects\JakartaEE\Leccion13\personas-ejb-jee-web\src\main\java\sga\web\PersonaBean.java
